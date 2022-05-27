@@ -11,4 +11,9 @@ public class GitTest {
         System.out.println("Git");
         System.out.println("Git");
     }
+
+    public void test(){
+
+        System.out.println("tset");
+    }
 }
