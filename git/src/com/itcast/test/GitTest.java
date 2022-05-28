@@ -10,10 +10,13 @@ public class GitTest {
         System.out.println("Git");
         System.out.println("Git");
         System.out.println("Git");
+        // hello GitTest
     }
 
     public void test(){
 
         System.out.println("tset");
+
+        System.out.println("GitTest");
     }
 }
