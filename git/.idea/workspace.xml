@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbc977f5-9501-4c9e-b80a-333440dc5d82" name="Default" comment="给git工程添加一个test无参方法">
+    <list default="true" id="dbc977f5-9501-4c9e-b80a-333440dc5d82" name="Default" comment="修改git工程">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/com/itcast/test/GitTest.java" afterPath="$PROJECT_DIR$/src/com/itcast/test/GitTest.java" />
     </list>
@@ -18,8 +18,8 @@
       <file leaf-file-name="GitTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/itcast/test/GitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="321">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -230,7 +230,7 @@
       <workItem from="1653632381743" duration="990000" />
       <workItem from="1653633456459" duration="551000" />
       <workItem from="1653715302166" duration="232000" />
-      <workItem from="1653715720439" duration="71000" />
+      <workItem from="1653715720439" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="把本地工程添加到git本地仓库">
       <created>1653632852871</created>
@@ -246,11 +246,18 @@
       <option name="project" value="LOCAL" />
       <updated>1653632995029</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改git工程">
+      <created>1653715840575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653715840575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1844000" />
+    <option name="totallyTimeSpent" value="1925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,7 +345,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="把本地工程添加到git本地仓库" />
     <MESSAGE value="给git工程添加一个test无参方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="给git工程添加一个test无参方法" />
+    <MESSAGE value="修改git工程" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改git工程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -371,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itcast/test/GitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="321">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding />
         </state>
       </provider>

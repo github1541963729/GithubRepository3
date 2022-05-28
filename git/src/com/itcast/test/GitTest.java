@@ -10,7 +10,7 @@ public class GitTest {
         System.out.println("Git");
         System.out.println("Git");
         System.out.println("Git");
-        // hello GitTest
+        // hello GitTest ...
     }
 
     public void test(){
